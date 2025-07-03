@@ -1,6 +1,6 @@
 # ELNER-DZ: Algerian Arabic Dataset for Named Entity Recognition and Entity Linking
 
-> 📌 **Official DOI**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15794817.svg)](https://doi.org/10.5281/zenodo.15794817)  
+> 📌 **Official DOI**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15798592.svg)](https://doi.org/10.5281/zenodo.15798592)  
 > 🤗 Also available on [Hugging Face](https://huggingface.co/datasets/HadjerHaninebgt7878/ELNER-DZ)  
 > 📥 [Download Dataset (.rar from Zenodo)](https://zenodo.org/record/15794817/files/data.rar)
 
