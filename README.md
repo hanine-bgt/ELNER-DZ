@@ -53,7 +53,7 @@ The dataset is provided as a single JSON file:
     }
   ]
 }
-
+```
 ## 🏷️ Entity Types
 
 The dataset includes the following entity types (NER labels):
@@ -134,13 +134,14 @@ You are free to share, copy, redistribute, adapt, and build upon the material fo
 Please cite this dataset as:
 
 ```bibtex
-@misc{elnerdz2025,
+@dataset{bouguettoucha_djouablia_2025,
   author       = {Bouguettoucha, Hadjer Hanine and Djouablia, Ilhem},
-  title        = {ELNER-DZ: Algerian Arabic Dataset for Named Entity Recognition and Entity Linking},
-  year         = {2025},
+  title        = {ELNER-DZ: A Dataset for Named Entity Recognition and Linking in Algerian Arabic},
+  year         = 2025,
   howpublished = {\url{https://huggingface.co/datasets/HadjerHaninebgt7878/ELNER-DZ}},
-  note         = {Dataset created as part of Master’s Thesis }
+  url          = {https://doi.org/10.5281/zenodo.xxxxxxx}
 }
+
 ```
 
 
