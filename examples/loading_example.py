@@ -8,7 +8,7 @@
 Load and explore the ELNER-DZ dataset from a RAR archive.
 Author: Bouguettoucha Hadjer Hanine & Djouablia Ilhem
 Dataset: https://huggingface.co/datasets/HadjerHaninebgt7878/ELNER-DZ
-Zenodo: https://doi.org/10.5281/zenodo.15794817
+Zenodo: https://doi.org/10.5281/zenodo.15798592
 """
 
 import os
