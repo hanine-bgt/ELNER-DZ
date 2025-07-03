@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite us using the metadata below:"
+title: "ELNER-DZ: A Dataset for Named Entity Recognition and Linking in Algerian Arabic"
+version: "1.0"
+doi: 10.5281/zenodo.15798592
+authors:
+  - family-names: Bouguettoucha
+    given-names: Hadjer Hanine
+   
+  - family-names: Djouablia
+    given-names: Ilhem
+   
+date-released: 2025-07-01
+keywords:
+  - named entity recognition
+  - entity linking
+  - Algerian Arabic
+  - Arabizi
+  - dialectal Arabic
+  - NLP
+  - Wikidata
+repository-code: https://github.com/your-username/elner-dz
+license: CC-BY-4.0
