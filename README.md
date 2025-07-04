@@ -146,8 +146,8 @@ This dataset is licensed under the **Creative Commons Attribution 4.0 Internatio
   title        = {ELNER-DZ: A Dataset for Named Entity Recognition and Linking in Algerian Arabic},
   year         = 2025,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.15794817},
-  url          = {https://doi.org/10.5281/zenodo.15794817}
+  doi          = {10.5281/zenodo.15798592},
+  url          = {https://doi.org/10.5281/zenodo.15798592}
 }
 ```
 
